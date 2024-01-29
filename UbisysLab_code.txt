@@ -1,3 +1,4 @@
+//authored by Meryl Mascarenhas and Shivani Palla
 var gatt,characteristic, s, ax, ay, az, gx, gy, gz, data, sign, x;
 var gyroXcal, gyroYcal, gyroZcal;
 var gyroRoll, gyroPitch, gyroYaw;
